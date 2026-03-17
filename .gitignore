@@ -1,5 +1,9 @@
 node_modules/
+backend/node_modules/
 dist/
 .env
-.DS_Store
+backend/.env
 *.local
+.DS_Store
+scripts/report/*
+!scripts/report/.gitkeep
