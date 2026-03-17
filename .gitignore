@@ -5,5 +5,5 @@ dist/
 backend/.env
 *.local
 .DS_Store
-scripts/report/*
-!scripts/report/.gitkeep
+scripts/report/*.html
+scripts/report/*.body
